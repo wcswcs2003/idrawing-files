@@ -409,7 +409,7 @@
           <mxGeometry x="999" y="-860" width="564" height="749" as="geometry" />
         </mxCell>
         <mxCell id="19nGx2Exfg-YN5UncrHl-1" value="OnPossess" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="620" width="120.5" height="40" as="geometry" />
+          <mxGeometry x="2774" y="600" width="120.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="19nGx2Exfg-YN5UncrHl-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2957" y="268" width="40" height="20" as="geometry" />
