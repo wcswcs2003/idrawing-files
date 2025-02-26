@@ -502,6 +502,9 @@
         <mxCell id="5GFZkQSGNIrurpX2kmGA-6" value="PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2730" y="460" width="190.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5GFZkQSGNIrurpX2kmGA-8" value="PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="470" width="190.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
