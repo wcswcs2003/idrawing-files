@@ -500,7 +500,7 @@
           <mxGeometry x="2670" y="258" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-6" value="PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2739" y="520" width="190.5" height="40" as="geometry" />
+          <mxGeometry x="2730" y="450" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-8" value="ALS_Player_Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2485" y="450" width="190.5" height="40" as="geometry" />
@@ -510,16 +510,6 @@
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5GFZkQSGNIrurpX2kmGA-8" target="5GFZkQSGNIrurpX2kmGA-9">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5GFZkQSGNIrurpX2kmGA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.511;entryY=-0.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5GFZkQSGNIrurpX2kmGA-6" target="5GFZkQSGNIrurpX2kmGA-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2834" y="460" />
-              <mxPoint x="2827" y="460" />
-              <mxPoint x="2827" y="470" />
-              <mxPoint x="2836" y="470" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
