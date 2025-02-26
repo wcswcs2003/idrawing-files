@@ -26,10 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yx1f6HlSEZE7R_fm635R-13" value="ALS_AnimMan_CharacterBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="143.5" y="340" width="200" height="60" as="geometry" />
+          <mxGeometry x="143.5" y="330" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yx1f6HlSEZE7R_fm635R-11" value="ALS_Player_Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="353.5" y="190" width="150" height="60" as="geometry" />
+          <mxGeometry x="393.5" y="190" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GSwEbJg_lJ_HYBpnrwKK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GSwEbJg_lJ_HYBpnrwKK-1" target="GSwEbJg_lJ_HYBpnrwKK-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -491,7 +491,7 @@
           <mxGeometry x="1150" y="-950" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dHTR9GmUHz4N_jdPi1Zl-1" value="ALS_AnimMan_CharacterBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="499" y="480" width="200" height="60" as="geometry" />
+          <mxGeometry x="370" y="330" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
