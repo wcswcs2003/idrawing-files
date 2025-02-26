@@ -490,6 +490,9 @@
         <mxCell id="zl9QxmqbDA9yFn3q0V1p-31" value="UE蓝图结构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=34;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="-950" width="230" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dHTR9GmUHz4N_jdPi1Zl-1" value="ALS_AnimMan_CharacterBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153.5" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
