@@ -505,6 +505,9 @@
         <mxCell id="5GFZkQSGNIrurpX2kmGA-8" value="ALS_Player_Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2481" y="460" width="190.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5GFZkQSGNIrurpX2kmGA-9" value="OnPossess" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2784" y="610" width="120.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
