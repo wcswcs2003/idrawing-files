@@ -517,7 +517,7 @@
         <mxCell id="5GFZkQSGNIrurpX2kmGA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.139;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5GFZkQSGNIrurpX2kmGA-8" target="5GFZkQSGNIrurpX2kmGA-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5GFZkQSGNIrurpX2kmGA-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5GFZkQSGNIrurpX2kmGA-18" value="激活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2675" y="538" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
