@@ -496,8 +496,8 @@
         <mxCell id="dHTR9GmUHz4N_jdPi1Zl-1" value="ALS_PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="378.5" y="330" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5GFZkQSGNIrurpX2kmGA-5" value="PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="258" width="190.5" height="40" as="geometry" />
+        <mxCell id="5GFZkQSGNIrurpX2kmGA-5" value="CameraSystence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="360" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5GFZkQSGNIrurpX2kmGA-6" target="19nGx2Exfg-YN5UncrHl-1">
           <mxGeometry relative="1" as="geometry" />
