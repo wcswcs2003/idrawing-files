@@ -488,7 +488,7 @@
           <mxGeometry x="1150" y="-950" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dHTR9GmUHz4N_jdPi1Zl-1" value="ALS_AnimMan_CharacterBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="153.5" y="350" width="200" height="60" as="geometry" />
+          <mxGeometry x="499" y="480" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
