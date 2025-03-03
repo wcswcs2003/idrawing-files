@@ -527,7 +527,7 @@
           <mxGeometry x="2690" y="565" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38Ni6gZd5H-ypAX4XXI9-1" value="OnPossess（自定义&lt;div&gt;事件）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2807.5" y="560" width="128.5" height="60" as="geometry" />
+          <mxGeometry x="2797.5" y="670" width="128.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
