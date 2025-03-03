@@ -409,10 +409,7 @@
           <mxGeometry x="999" y="-860" width="564" height="749" as="geometry" />
         </mxCell>
         <mxCell id="19nGx2Exfg-YN5UncrHl-1" value="OnPossess（自定义&lt;div&gt;事件）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2762.5" y="550" width="128.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="19nGx2Exfg-YN5UncrHl-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="2985" y="280" width="40" height="20" as="geometry" />
+          <mxGeometry x="2762.5" y="495" width="128.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zl9QxmqbDA9yFn3q0V1p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zl9QxmqbDA9yFn3q0V1p-1" target="zl9QxmqbDA9yFn3q0V1p-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -497,37 +494,37 @@
           <mxGeometry x="378.5" y="330" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-5" value="CameraSystem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="340" width="190.5" height="40" as="geometry" />
+          <mxGeometry x="2720" y="285" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5GFZkQSGNIrurpX2kmGA-6" target="19nGx2Exfg-YN5UncrHl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-6" value="PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2731.5" y="450" width="190.5" height="40" as="geometry" />
+          <mxGeometry x="2731.5" y="395" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-8" value="ALS_Player_Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2450" y="450" width="190.5" height="40" as="geometry" />
+          <mxGeometry x="2450" y="395" width="190.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5GFZkQSGNIrurpX2kmGA-18" target="19nGx2Exfg-YN5UncrHl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-9" value="事件&lt;span style=&quot;background-color: initial;&quot;&gt;控制时（事件）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2485" y="560" width="120.5" height="40" as="geometry" />
+          <mxGeometry x="2485" y="505" width="120.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.139;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5GFZkQSGNIrurpX2kmGA-8" target="5GFZkQSGNIrurpX2kmGA-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5GFZkQSGNIrurpX2kmGA-9" target="5GFZkQSGNIrurpX2kmGA-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2606" y="580" as="sourcePoint" />
-            <mxPoint x="2766" y="580" as="targetPoint" />
+            <mxPoint x="2606" y="525" as="sourcePoint" />
+            <mxPoint x="2766" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5GFZkQSGNIrurpX2kmGA-18" value="激活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2655" y="565" width="50" height="30" as="geometry" />
+          <mxGeometry x="2655" y="510" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38Ni6gZd5H-ypAX4XXI9-3" value="ALS_PlayerCameraBehavior" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2985" y="450" width="190.5" height="40" as="geometry" />
+          <mxGeometry x="2985" y="395" width="190.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
