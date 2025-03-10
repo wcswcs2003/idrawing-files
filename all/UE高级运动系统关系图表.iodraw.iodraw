@@ -526,6 +526,9 @@
         <mxCell id="38Ni6gZd5H-ypAX4XXI9-3" value="ALS_PlayerCameraBehavior" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2985" y="485" width="190.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jo6z7eRffs8ILIrgbXTq-1" value="ALS_PlayerCameraBehavior" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2995" y="495" width="190.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
