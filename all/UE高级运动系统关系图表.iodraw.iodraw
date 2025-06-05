@@ -535,9 +535,6 @@
         <mxCell id="jo6z7eRffs8ILIrgbXTq-1" value="ALS_AnimMan_CharacterBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3020" y="659.87" width="190.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4BcQZp8iOzB-9tXcqopR-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2695" y="688" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
