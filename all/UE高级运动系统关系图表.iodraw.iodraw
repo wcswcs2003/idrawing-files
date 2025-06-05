@@ -538,6 +538,9 @@
         <mxCell id="4BcQZp8iOzB-9tXcqopR-4" value="传递信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2960" y="600" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4BcQZp8iOzB-9tXcqopR-7" value="cast" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2535" y="658" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
