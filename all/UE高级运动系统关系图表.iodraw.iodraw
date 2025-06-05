@@ -535,7 +535,7 @@
         <mxCell id="jo6z7eRffs8ILIrgbXTq-1" value="ALS_AnimMan_CharacterBP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3020" y="659.87" width="190.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4BcQZp8iOzB-9tXcqopR-2" value="PlayerCameraManager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4BcQZp8iOzB-9tXcqopR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2720" y="710" width="190.5" height="40" as="geometry" />
         </mxCell>
       </root>
