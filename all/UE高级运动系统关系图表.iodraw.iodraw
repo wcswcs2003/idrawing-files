@@ -554,7 +554,7 @@
           <mxGeometry x="1024.5" y="1313" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-5" value="&lt;div&gt;&lt;div&gt;casting&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210.5" y="1370" width="103" height="40" as="geometry" />
+          <mxGeometry x="210.5" y="1340" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-6" value="&lt;div&gt;&lt;div&gt;interfaces&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="1353" width="103" height="40" as="geometry" />
@@ -563,6 +563,9 @@
           <mxGeometry x="649" y="1370" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-8" target="ioxLd6KMFxWF5lzUn5uK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioxLd6KMFxWF5lzUn5uK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-8" target="ioxLd6KMFxWF5lzUn5uK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-8" value="&lt;div&gt;&lt;div&gt;蓝图通信的方法&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
