@@ -599,8 +599,8 @@
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-29" value="function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="521" y="1500" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ioxLd6KMFxWF5lzUn5uK-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1408" width="50" height="30" as="geometry" />
+        <mxCell id="ioxLd6KMFxWF5lzUn5uK-31" value="没有输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1408" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
