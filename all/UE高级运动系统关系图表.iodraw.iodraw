@@ -627,13 +627,11 @@
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-41" value="Enum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="928" y="1241" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ioxLd6KMFxWF5lzUn5uK-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1450" y="1320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-42" value="Blend Poses by int" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="1241" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ioxLd6KMFxWF5lzUn5uK-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-54" target="ioxLd6KMFxWF5lzUn5uK-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1415" y="1349" width="60" height="82" as="geometry" />
