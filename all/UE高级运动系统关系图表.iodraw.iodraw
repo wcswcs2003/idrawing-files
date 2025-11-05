@@ -628,13 +628,13 @@
           <mxGeometry x="928" y="1241" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-42" value="Blend Poses by int" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1241" width="130" height="40" as="geometry" />
+          <mxGeometry x="1295.25" y="1239" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-54" target="ioxLd6KMFxWF5lzUn5uK-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="1319" width="60" height="82" as="geometry" />
+          <mxGeometry x="1330.25" y="1317" width="60" height="82" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ioxLd6KMFxWF5lzUn5uK-54">
           <mxGeometry width="60" height="27" as="geometry" />
@@ -661,10 +661,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-80" value="Select" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1374" width="60" height="29" as="geometry" />
+          <mxGeometry x="1225.25" y="1372" width="60" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.058;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-80" target="ioxLd6KMFxWF5lzUn5uK-59">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ioxLd6KMFxWF5lzUn5uK-83" value="Enum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="938" y="1251" width="103" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
