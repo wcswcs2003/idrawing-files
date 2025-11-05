@@ -573,6 +573,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ioxLd6KMFxWF5lzUn5uK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioxLd6KMFxWF5lzUn5uK-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1309.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-8" value="&lt;div&gt;&lt;div&gt;蓝图通信的方法&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="1190" width="103" height="40" as="geometry" />
         </mxCell>
