@@ -618,8 +618,8 @@
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-34" value="有输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="439" y="1471" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ioxLd6KMFxWF5lzUn5uK-37" value="SequencePlay&lt;span style=&quot;background-color: initial;&quot;&gt;er&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1034.5" y="1323" width="103" height="40" as="geometry" />
+        <mxCell id="ioxLd6KMFxWF5lzUn5uK-37" value="&lt;div&gt;&lt;div&gt;Get Anim Instance&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="1410" width="103" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
