@@ -551,7 +551,7 @@
           <mxGeometry x="74.97" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-4" value="SequencePlay&lt;span style=&quot;background-color: initial;&quot;&gt;er&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1024.5" y="1313" width="103" height="40" as="geometry" />
+          <mxGeometry x="1025" y="1313" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ioxLd6KMFxWF5lzUn5uK-5" value="&lt;div&gt;&lt;div&gt;casting&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="1401" width="103" height="40" as="geometry" />
